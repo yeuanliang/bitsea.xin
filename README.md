@@ -17,6 +17,8 @@
 [8+1 Framework](https://hellohenrik.com/81-framework)  
 [Naval](https://nav.al/)  
 [Inadequate Equilibria](https://equilibriabook.com/)  
+[LessWrong](https://www.lesswrong.com/)  
+[Tim Ferriss](https://tim.blog/)  
 
 [有知有行](https://youzhiyouxing.cn/)  
 [ETF拯救世界](https://weibo.com/u/5687069307)  
