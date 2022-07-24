@@ -1,7 +1,7 @@
 # BitSea.Xin
 
 [庄子内篇](./zhuangzi.md)  
-[孟子](mengzi.md)  
+[孟子](./mengzi.md)  
 
 [Mixin Messenger](https://mixin.one/mm)：安全聊天+数字  
 [Tutanota](https://tutanota.com/)：安全邮箱  
