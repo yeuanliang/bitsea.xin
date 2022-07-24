@@ -19,6 +19,9 @@
 [Inadequate Equilibria](https://equilibriabook.com/)  
 [LessWrong](https://www.lesswrong.com/)  
 [Tim Ferriss](https://tim.blog/)  
+[Not Boring](https://www.notboring.co)  
+[Brain Food](https://fs.blog)  
+[Better Explained](https://betterexplained.com/)  
 
 [有知有行](https://youzhiyouxing.cn/)  
 [ETF拯救世界](https://weibo.com/u/5687069307)  
@@ -37,10 +40,6 @@
 [OpenCulture](https://www.openculture.com/)  
 [论文阅读](https://readpaper.com/)  
 [Sci-Bay](https://sci-bay.org/)  
-
-[Not Boring](https://www.notboring.co)  
-[Brain Food](https://fs.blog)  
-[Better Explained](https://betterexplained.com/)  
 
 [Behind the Name](http://www.behindthename.com/)  
 [汉典](http://www.zdic.net/)  
