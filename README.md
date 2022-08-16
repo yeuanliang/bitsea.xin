@@ -20,23 +20,27 @@
 [LessWrong](https://www.lesswrong.com/)  
 [Tim Ferriss](https://tim.blog/)  
 [Not Boring](https://www.notboring.co)  
-[Brain Food](https://fs.blog)  
+[Farnam Street](https://fs.blog)  
 [Better Explained](https://betterexplained.com/)  
+[Infinite MIT](https://infinite.mit.edu/)  
 
 [有知有行](https://youzhiyouxing.cn/)  
 [ETF拯救世界](https://weibo.com/u/5687069307)  
 [Memos From Howard Marks](https://www.oaktreecapital.com/insights/memos)  
 [Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html)  
+[Amazon Annual reports, proxies and shareholder letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)  
 
 [浮墨笔记](https://flomoapp.com/)  
 [Notion](https://www.notion.so/)  
 
 [Learn X in Y minutes](https://learnxinyminutes.com/)  
 [开发者工具](https://devtool.tech/)  
-[Stack Overflow Blog](https://stackoverflow.blog/)  
+[Joel on Software](https://www.joelonsoftware.com/)  
+[酷壳](https://coolshell.cn/)  
 
 [全历史](https://www.allhistory.com/)  
 [中国哲学书电子化计划](https://ctext.org/zhs)  
+[臺灣華文電子書庫](https://taiwanebook.ncl.edu.tw/zh-tw)  
 [OpenCulture](https://www.openculture.com/)  
 [论文阅读](https://readpaper.com/)  
 [Sci-Bay](https://sci-bay.org/)  
@@ -47,6 +51,7 @@
 [现在北京时间](http://www.beijing-time.org/)  
 [Paper Size](https://papersizes.io/)  
 [FontsInUse](https://fontsinuse.com/)  
+[RightPDF](https://online.rightpdf.com/cn/home)  
 [Project Euler](https://projecteuler.net/)  
 
 [favorite](./favorite.md)  
