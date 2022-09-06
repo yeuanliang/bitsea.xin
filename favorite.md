@@ -24,3 +24,4 @@
 * [How to Read a Book](https://pne.people.si.umich.edu/PDF/howtoread.pdf)  
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)  
 * [The Freedom of The Press](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/the-freedom-of-the-press/)  
+* [Mixin 工作原理](https://learnblockchain.cn/article/1942)  
