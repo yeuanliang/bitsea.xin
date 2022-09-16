@@ -47,6 +47,8 @@
 
 [Behind the Name](http://www.behindthename.com/)  
 [汉典](http://www.zdic.net/)  
+[漢語大字典（第二版）](http://www.homeinmists.com/hd/index.html)  
+[MacTutor History of Mathematics](https://mathshistory.st-andrews.ac.uk/)  
 [Time.is](https://time.is/)  
 [现在北京时间](http://www.beijing-time.org/)  
 [Paper Size](https://papersizes.io/)  
