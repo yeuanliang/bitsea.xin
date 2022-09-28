@@ -7,6 +7,8 @@
 [Tutanota](https://tutanota.com/)：安全邮箱  
 
 [Mixin机器人](https://mixin.fan/)  
+[Mixin Network](https://mixin.network/)  
+[Mixin Explorer](https://v2.viewblock.io/mixin)  
 [区块链黑暗森林自救手册](https://darkhandbook.io/)  
 [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)  
 [Bitcoin is hope](https://www.hope.com/)  
