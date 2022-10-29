@@ -25,7 +25,8 @@
 [Farnam Street](https://fs.blog)  
 [Better Explained](https://betterexplained.com/)  
 [Infinite MIT](https://infinite.mit.edu/)  
-[KK](https://kk.org/kk/)
+[KK](https://kk.org/kk/)  
+[Derek Sivers](https://sive.rs/)  
 
 [有知有行](https://youzhiyouxing.cn/)  
 [ETF拯救世界](https://weibo.com/u/5687069307)  
