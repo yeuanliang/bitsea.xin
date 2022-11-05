@@ -28,6 +28,8 @@
 [KK](https://kk.org/kk/)  
 [Derek Sivers](https://sive.rs/)  
 
+[困而学之](https://caminodetexas.substack.com/)  
+
 [有知有行](https://youzhiyouxing.cn/)  
 [ETF拯救世界](https://weibo.com/u/5687069307)  
 [Memos From Howard Marks](https://www.oaktreecapital.com/insights/memos)  
