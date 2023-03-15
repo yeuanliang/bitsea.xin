@@ -1,6 +1,7 @@
 # BitSea.Xin
 
 [莊老孔孟](/classic.md)  
+[文心雕龍](/wenxin.md)  
 
 [Mixin Messenger](https://mixin.one/mm)：安全聊天+数字  
 [Tutanota](https://tutanota.com/)：安全邮箱  
@@ -11,6 +12,9 @@
 [区块链黑暗森林自救手册](https://darkhandbook.io/)  
 [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)  
 [Bitcoin is hope](https://www.hope.com/)  
+[Bitcoin Optech](https://bitcoinops.org/)  
+[BTC Study](https://www.btcstudy.org/)  
+[Gradually, Then Suddenly](https://unchained.com/blog/category/gradually-then-suddenly/)  
 
 [MindHacks](https://mindhacks.cn)  
 [37 Signals](https://37signals.com/)  
