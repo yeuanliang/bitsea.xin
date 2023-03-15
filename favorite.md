@@ -5,17 +5,25 @@
 * [灿烂人生](https://movie.douban.com/subject/1291831/)
 * [无言的山丘](https://movie.douban.com/subject/1298944/)
 * [肖申克的救赎](https://movie.douban.com/subject/1292052/)
+* [一一](https://movie.douban.com/subject/1292434/)
+* [相约星期二](https://movie.douban.com/subject/1438746/)
 
 ## 图书
 
 * [穷查理宝典](https://book.douban.com/subject/26831789/)
-* [如何阅读一本书](https://book.douban.com/subject/1013208/)
+* [纳瓦尔宝典](https://book.douban.com/subject/35876121/)
 * [马文·柯林斯的教育之道](https://book.douban.com/subject/33394561/)
-* [怎样解题](https://book.douban.com/subject/30373956/)
+* [教育3.0](https://book.douban.com/subject/36078400/)
+* [认知天性](https://book.douban.com/subject/30353486/)
 * [暗时间](https://book.douban.com/subject/35858123/)
-* [小的是美好的](https://book.douban.com/subject/2004425/)
+* [如何阅读一本书](https://book.douban.com/subject/1013208/)
+* [越讀者](https://book.douban.com/subject/30194643/)
+* [学习之道](https://book.douban.com/subject/26895988/)
+* [学习之道](https://book.douban.com/subject/27047949/)
+* [怎样解题](https://book.douban.com/subject/30373956/)
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/)
 * [活出生命的意义](https://book.douban.com/subject/5330333/)
+* [你真的会放松吗](https://book.douban.com/subject/35883920/)
 
 ## 文章
 
@@ -25,3 +33,4 @@
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)  
 * [The Freedom of The Press](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/the-freedom-of-the-press/)  
 * [Mixin 工作原理](https://learnblockchain.cn/article/1942)  
+* [Bitcoin 101: past, present and future](https://www.musclesatz.com/articles/bitcoin-past-present-future/)  
