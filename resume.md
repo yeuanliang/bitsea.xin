@@ -26,7 +26,7 @@
 
 ## 个人项目
 
-* 基督教路德宗[Lectionary](https://lectionary.hisword.one)
+* [基督教路德宗读经安排](https://lectionary.hisword.one)
 * 考古测年样品管理系统
 
 ## 近年学习
