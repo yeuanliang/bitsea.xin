@@ -14,6 +14,7 @@
 [Bitcoin is hope](https://www.hope.com/)  
 [Bitcoin Optech](https://bitcoinops.org/)  
 [BTC Study](https://www.btcstudy.org/)  
+[BitCoin Memo](https://bitcoinmemo.substack.com/archive)  
 [Gradually, Then Suddenly](https://unchained.com/blog/category/gradually-then-suddenly/)  
 
 [MindHacks](https://mindhacks.cn)  
