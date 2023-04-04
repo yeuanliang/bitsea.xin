@@ -35,7 +35,7 @@
 [困而学之](https://caminodetexas.substack.com/)  
 
 [有知有行](https://youzhiyouxing.cn/)  
-[ETF拯救世界](https://weibo.com/u/5687069307)  
+[ETF拯救世界](https://weibo.com/u/7519797263)  
 [Memos From Howard Marks](https://www.oaktreecapital.com/insights/memos)  
 [Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html)  
 [Amazon Annual reports, proxies and shareholder letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)  

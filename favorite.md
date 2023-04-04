@@ -7,6 +7,7 @@
 * [肖申克的救赎](https://movie.douban.com/subject/1292052/)
 * [一一](https://movie.douban.com/subject/1292434/)
 * [相约星期二](https://movie.douban.com/subject/1438746/)
+* [极有可能成功](https://www.bilibili.com/video/BV1jv411z7Qx/)
 
 ## 图书
 
@@ -24,6 +25,7 @@
 * [The Minimalist Entrepreneur](https://book.douban.com/subject/35671671/)
 * [活出生命的意义](https://book.douban.com/subject/5330333/)
 * [你真的会放松吗](https://book.douban.com/subject/35883920/)
+* [教育3.0](https://book.douban.com/subject/36078400/)
 
 ## 文章
 
