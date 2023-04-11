@@ -3,8 +3,8 @@
 [莊老孔孟](/classic.md)  
 [文心雕龍](/wenxin.md)  
 
-[Mixin Messenger](https://mixin.one/mm)：安全聊天+数字  
-[Tutanota](https://tutanota.com/)：安全邮箱  
+[Mixin Messenger](https://mixin.one/mm)  
+[Tutanota](https://tutanota.com/)  
 
 [Mixin机器人](https://mixin.fan/)  
 [Mixin Network](https://mixin.network/)  
@@ -39,6 +39,7 @@
 [Memos From Howard Marks](https://www.oaktreecapital.com/insights/memos)  
 [Berkshire Hathaway Shareholder Letters](http://www.berkshirehathaway.com/letters/letters.html)  
 [Amazon Annual reports, proxies and shareholder letters](https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx)  
+[Morgan Housel](https://collabfund.com/blog/)  
 
 [浮墨笔记](https://flomoapp.com/)  
 [Notion](https://www.notion.so/)  
